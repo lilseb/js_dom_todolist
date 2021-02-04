@@ -1,0 +1,23 @@
+{
+  "name": "Projet_toDO_list",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lilseb/js_dom_todolist.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lilseb/js_dom_todolist/issues"
+  },
+  "homepage": "https://github.com/lilseb/js_dom_todolist#readme",
+  "dependencies": {
+    "bootstrap": "^4.6.0"
+  }
+}
